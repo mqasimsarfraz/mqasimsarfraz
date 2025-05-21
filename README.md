@@ -11,7 +11,7 @@
 - [Go Go Gadget! Inspektor Gadget and Observability](https://www.youtube.com/live/Io6vqHitTzQ?si=a2LV3y-YtuSkK_Fk) | [⚡️ Enlightning](https://www.youtube.com/@wiggitywhitney)
 - [Optimizing DevEx with Observability in Platform Engineering Using Inspektor Gadget](https://www.youtube.com/live/WIh5saIx12U?si=xbk7ApZNvAbfjXok) | [Cloud Native Islamabad](https://community.cncf.io/cloud-native-islamabad/)
 
-#### Blog Posts
+### Blog Posts
 - [Kubernetes DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e)
 - [Kubernetes Debug Story — How NOT to run a privileged container](https://awstip.com/kubernetes-v1-20-debug-story-fdef7ba01cfe)
 - [Transform Your Kubernetes CLI Experience: Writing K9s Plugins by Leveraging Inspektor Gadget](https://inspektor-gadget.io/blog/2025/02/writing-k9s-plugins-with-inspektor-gadget)
